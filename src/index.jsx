@@ -34,9 +34,13 @@ BacktraceClient.initialize({
   }),
 });
 
+// Dynamically set basename based on PUBLIC_URL (from homepage in package.json)
+// This works for local dev, GitHub Pages, and any future domain
+const basename = process.env.PUBLIC_URL || "/";
+
 const routing = (
   <ErrorBoundary>
-    <Router>
+    <Router basename={basename}>
       <Route exact path={ROUTES.LOGIN} component={Login} />
       <PrivateRoute path={ROUTES.INVENTORY} component={(props) => <Inventory data={InventoryData} {...props}/>} />
       <PrivateRoute path={ROUTES.INVENTORY_LONG} component={(props) => <Inventory data={InventoryDataLong} {...props}/>} />

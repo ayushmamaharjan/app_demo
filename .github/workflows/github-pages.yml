@@ -28,6 +28,7 @@ jobs:
       - name: Build site
         env:
           CI: false
+          PUBLIC_URL: https://ayushmamaharjan.github.io/app_demo/
         run: |
           ls
           npm ci
