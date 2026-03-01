@@ -1,6 +1,7 @@
 {
   "name": "sample-app-web",
-  "homepage": "https://www.saucedemo.com",
+  "author": "Ayushma Maharjan",
+  "homepage": "https://ayushmamaharjan.github.io/app_demo/",
   "version": "3.0.0",
   "private": true,
   "dependencies": {
@@ -60,7 +61,7 @@
     "test.storybook.mobile": "screener-storybook --conf test/visual/storybook/mobile.config.js",
     "storybook": "start-storybook -p 6006 -s public",
     "build.storybook": "build-storybook -s public",
-    "postbuild.storybook": "cd scripts && ./postbuild.sh",
+    "postbuild.storybook": "cd scripts && bash postbuild.sh",
     "backtrace.sourcemaps": "backtrace-js run"
   },
   "browserslist": {
