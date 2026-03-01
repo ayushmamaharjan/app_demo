@@ -1,5 +1,7 @@
 # What is this codebase?
-This is the Sauce Labs Sample Application which is designed to be used from desktop web browsers
+This repository contains the Sauce Labs Sample Application — a demo e-commerce web app built for testing and examples.
+
+[Live demo](https://ayushmamaharjan.github.io/app_demo/) — Click to open the deployed site (GitHub Pages)
 
 ![sample-app-web workflow](https://github.com/saucelabs/sample-app-web/actions/workflows/sample-app-web.yml/badge.svg)
 [![codecov](https://codecov.io/gh/saucelabs/sample-app-web/branch/master/graph/badge.svg?token=Q4UsgDSRd3)](https://codecov.io/gh/saucelabs/sample-app-web)
