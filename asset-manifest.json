@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "https://ayushmamaharjan.github.io/app_demo/static/css/main.50085c7f.css",
-    "main.js": "https://ayushmamaharjan.github.io/app_demo/static/js/main.22b8c510.js",
-    "static/media/sl-404.jpg": "https://ayushmamaharjan.github.io/app_demo/static/media/sl-404.168b1cce10384b857a6f.jpg",
-    "service-worker.js": "https://ayushmamaharjan.github.io/app_demo/service-worker.js",
-    "static/media/sauce-pullover-1200x1500.jpg": "https://ayushmamaharjan.github.io/app_demo/static/media/sauce-pullover-1200x1500.51d7ffaf301e698772c8.jpg",
-    "static/media/pony-express.png": "https://ayushmamaharjan.github.io/app_demo/static/media/pony-express.46394a5da14bc7082546.png",
-    "static/media/red-tatt-1200x1500.jpg": "https://ayushmamaharjan.github.io/app_demo/static/media/red-tatt-1200x1500.30dadef477804e54fc7b.jpg",
-    "static/media/sauce-backpack-1200x1500.jpg": "https://ayushmamaharjan.github.io/app_demo/static/media/sauce-backpack-1200x1500.0a0b85a385945026062b.jpg",
-    "static/media/red-onesie-1200x1500.jpg": "https://ayushmamaharjan.github.io/app_demo/static/media/red-onesie-1200x1500.2ec615b271ef4c3bc430.jpg",
-    "static/media/bolt-shirt-1200x1500.jpg": "https://ayushmamaharjan.github.io/app_demo/static/media/bolt-shirt-1200x1500.c2599ac5f0a35ed5931e.jpg",
-    "static/media/bike-light-1200x1500.jpg": "https://ayushmamaharjan.github.io/app_demo/static/media/bike-light-1200x1500.37c843b09a7d77409d63.jpg",
-    "index.html": "https://ayushmamaharjan.github.io/app_demo/index.html",
-    "static/media/cart3x.svg": "https://ayushmamaharjan.github.io/app_demo/static/media/cart3x.2e632c7a69f21aba301c.svg",
-    "static/media/menu3x.svg": "https://ayushmamaharjan.github.io/app_demo/static/media/menu3x.e9de0afe3bab50c88d90a94b26b41add.svg",
-    "static/media/close@3x.svg": "https://ayushmamaharjan.github.io/app_demo/static/media/close@3x.3b01aaacbaafe578add2eb49c5116d3f.svg",
-    "static/media/filter3x.svg": "https://ayushmamaharjan.github.io/app_demo/static/media/filter3x.f1c747557105ef5f64fb.svg",
-    "static/media/arrow3x.svg": "https://ayushmamaharjan.github.io/app_demo/static/media/arrow3x.503bc095e628395d7735.svg",
-    "main.50085c7f.css.map": "https://ayushmamaharjan.github.io/app_demo/static/css/main.50085c7f.css.map",
-    "main.22b8c510.js.map": "https://ayushmamaharjan.github.io/app_demo/static/js/main.22b8c510.js.map"
+    "main.css": "/app_demo/static/css/main.089de6fb.css",
+    "main.js": "/app_demo/static/js/main.d442c2ac.js",
+    "static/media/sl-404.jpg": "/app_demo/static/media/sl-404.168b1cce10384b857a6f.jpg",
+    "static/media/sauce-pullover-1200x1500.jpg": "/app_demo/static/media/sauce-pullover-1200x1500.51d7ffaf301e698772c8.jpg",
+    "service-worker.js": "/app_demo/service-worker.js",
+    "static/media/pony-express.png": "/app_demo/static/media/pony-express.46394a5da14bc7082546.png",
+    "static/media/red-tatt-1200x1500.jpg": "/app_demo/static/media/red-tatt-1200x1500.30dadef477804e54fc7b.jpg",
+    "static/media/sauce-backpack-1200x1500.jpg": "/app_demo/static/media/sauce-backpack-1200x1500.0a0b85a385945026062b.jpg",
+    "static/media/red-onesie-1200x1500.jpg": "/app_demo/static/media/red-onesie-1200x1500.2ec615b271ef4c3bc430.jpg",
+    "static/media/bolt-shirt-1200x1500.jpg": "/app_demo/static/media/bolt-shirt-1200x1500.c2599ac5f0a35ed5931e.jpg",
+    "static/media/bike-light-1200x1500.jpg": "/app_demo/static/media/bike-light-1200x1500.37c843b09a7d77409d63.jpg",
+    "static/media/cart3x.svg": "/app_demo/static/media/cart3x.2e632c7a69f21aba301c.svg",
+    "index.html": "/app_demo/index.html",
+    "static/media/menu3x.svg": "/app_demo/static/media/menu3x.e9de0afe3bab50c88d90a94b26b41add.svg",
+    "static/media/close@3x.svg": "/app_demo/static/media/close@3x.3b01aaacbaafe578add2eb49c5116d3f.svg",
+    "static/media/filter3x.svg": "/app_demo/static/media/filter3x.f1c747557105ef5f64fb.svg",
+    "static/media/arrow3x.svg": "/app_demo/static/media/arrow3x.503bc095e628395d7735.svg",
+    "main.089de6fb.css.map": "/app_demo/static/css/main.089de6fb.css.map",
+    "main.d442c2ac.js.map": "/app_demo/static/js/main.d442c2ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.50085c7f.css",
-    "static/js/main.22b8c510.js"
+    "static/css/main.089de6fb.css",
+    "static/js/main.d442c2ac.js"
   ]
 }
